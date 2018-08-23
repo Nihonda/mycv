@@ -246,7 +246,7 @@ Others:
     
 - Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
 - Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
-- Pricing policy: you pay for what you use. Means, expandable
+- Pricing policy: you pay for what you use. Means, expandable <br />
     I chose these reasons because my current company not long time ago started using AWS services.
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
