@@ -231,7 +231,7 @@ Others:
     
     I love developing front-end iOS application, communicating with back-end programmers, finding best approaches to build user-friendly, fast responding user interface. Including database architecture
     Due to regular change of Swift language (Swift 2.3, Swift3.1, Swift3.3 and Swift 4.1) it is critical to match changes and apply them to new releases of applications. Sometimes this work can be frustrating, but also very interesting. I love doing this work.
-    Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.<br />
+    Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
@@ -244,13 +244,11 @@ Others:
 
 <Your response>
     
-    I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.<br />
+    I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.
     3 top reasons that draws my attention:
-    
-- Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
-- Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
-- Pricing policy: you pay for what you use. Means, expandable <br />
-    
+      - Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
+      - Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
+      - Pricing policy: you pay for what you use. Means, expandable   
     I chose these reasons because my current company receintly started using AWS services.
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
@@ -258,11 +256,16 @@ Others:
 <Your response>
     
     I take very seriously my current iOS projects. The reasons are quite obvious: skills and experience which gave me Japan are much more than skills I got in my home country.
-    I was the only front-end developer for JobSearch, Part-time iOS projects: . 
     My responsiblities were: 
-     - migration of code Swift 2.2 -> Swift 2.3 -> Swift 3.1 -> Swift 4.1. Together with 
-
-
+     - design and building advance applications (JobSearch, Part-time, ShiftManagement)
+     - migration of code Swift 2.2 -> Swift 2.3 -> Swift 3.1 -> Swift 4.1
+     - collaboration with back end developers, designers, tester team and customers to define and develop new features
+     - implementation of new APIs: GA, Firebase Analytics, Repro, AppsFlyer, FOX, etc...
+     
+     Modern Swift language is evolving quite rapidly. Since me start working in current company 3 great changes happened with Swift language. Everytime needed to change codings to new style together with design. So I was able to use my skills to come up with completely new approaches to existing application:
+     - Change fixed 320 px based design of controllers (Autoresizing) to basis of constraints (AutoLayout)
+     - Use of closure parameters and functions (create on the fly where needed)
+     - One Universal iOS application: with support of iPhone + iPad.
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
