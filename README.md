@@ -247,23 +247,28 @@ Others:
 - Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
 - Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
 - Pricing policy: you pay for what you use. Means, expandable <br />
-    I chose these reasons because my current company not long time ago started using AWS services.
+    
+    I chose these reasons because my current company receintly started using AWS services.
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
 <Your response>
-    I take very seriously my current iOS projects. The reasons are obvious
+    I take very seriously my current iOS projects. The reasons are quite obvious: skills and experience which gave me Japan are much more than skills I got in my home country.
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
 <Your Response>
+    https://github.com/nurlan-kalybekov
 
 ### Public URL (blog, Twitter., etc)
 
 <Your Response>
+    www.japan.kg
 
 ### What are the names of the technical writings (book and articles) that had the most profound impact on you? (list upto 3, if you have any)
 
 <Your Response>
+    Mike Meyers: Network Security
+    Stinson: Cryptography, Theory and Practice, Chapman & Hall CRC, 3rd edition
 
 # Thank you for your participation.
