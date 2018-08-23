@@ -4,8 +4,8 @@
 # Applicant
 
 - Name: <strong>Kalybekov Nurlan</strong>
-- Date: August 23, 2018
-- Preferred work location: Kyoto office
+- Date: <strong>August 23, 2018</strong>
+- Preferred work location: <strong>Kyoto office</strong>
 ※ Please choose one (Tokyo office/ Fukuoka office/ Kyoto office) 
 ※ All of the positions in Tokyo office are required Japanese skills equivalent to JLPT Level 2 or above.
 ※ Applicant who choose Tokyo Office, please provide your Japanese certificate or any proof of your Japanese skills, non-Japanese speaking candidate please select Fukuoka or Kyoto Office.
