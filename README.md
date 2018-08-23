@@ -228,6 +228,7 @@ Others:
 ### What are the specific kind of work you wish to pursue in LINE?
 
 <Your response>
+    
     I love developing front-end iOS application, communicating with back-end programmers, finding best approaches to build user-friendly, fast responding user interface. Including database architecture<br />
     Due to regular change of Swift language (Swift 2.3, Swift3.1, Swift3.3 and Swift 4.1) it is critical to match changes and apply them to new releases of applications. Sometimes this work can be frustrating, but also very interesting. I love doing this work.
     Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.<br />
@@ -235,15 +236,12 @@ Others:
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
 <Frequently used app>
-
-JobSearch iOS application I am using on daily basis.
-
-In the last 1 year I haved learned Firebase analytics, Repro, GA, AppsFlyer, organic/non-organic users campaign, AWS Lambda.
+    JobSearch iOS application I am using on daily basis.
+    In the last 1 year I haved learned Firebase analytics, Repro, GA, AppsFlyer, organic/non-organic users campaign, AWS Lambda.
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
 <Your response>
-    
     I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.<br />
     3 top reasons that draws my attention:
     
