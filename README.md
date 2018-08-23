@@ -3,7 +3,7 @@
 
 # Applicant
 
-- Name: Kalybekov Nurlan
+- Name: <strong>Kalybekov Nurlan</strong>
 - Date: August 23, 2018
 - Preferred work location: Kyoto office
 ※ Please choose one (Tokyo office/ Fukuoka office/ Kyoto office) 
