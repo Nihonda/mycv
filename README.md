@@ -264,7 +264,7 @@ Others:
      
      Modern Swift language is evolving quite rapidly. Since me start working in current company 3 great changes happened with Swift language. Everytime needed to change codings to new style together with design. So I was able to use my skills to come up with completely new approaches to existing application:
      - Change fixed 320 px based design of controllers (Autoresizing) to basis of constraints (AutoLayout)
-     - Use of closure parameters and functions (create on the fly where needed)
+     - Use of closure parameters and functions (create on-the-fly where needed, shorten code, asynchronious)
      - One Universal iOS application: with support of iPhone + iPad.
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
