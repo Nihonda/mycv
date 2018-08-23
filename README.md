@@ -106,7 +106,7 @@ Others:
 - [ ] React Native
 - [ ] Cordova
 
-±âÅ¸ :
+Others:
 
 ### Server-Side Framework & API Layer
 
