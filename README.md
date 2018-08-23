@@ -243,8 +243,9 @@ In the last 1 year I haved learned Firebase analytics, Repro, GA, AppsFlyer, org
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
 <Your response>
+    
     I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.<br />
-    3 top reasons that draws my attention:<br />
+    3 top reasons that draws my attention:
     
 - Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
 - Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
@@ -255,12 +256,13 @@ In the last 1 year I haved learned Firebase analytics, Repro, GA, AppsFlyer, org
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
 <Your response>
-<pre>
+    
     I take very seriously my current iOS projects. The reasons are quite obvious: skills and experience which gave me Japan are much more than skills I got in my home country.
     I was the only front-end developer for JobSearch, Part-time iOS projects: . 
     My responsiblities were: 
      - migration of code Swift 2.2 -> Swift 2.3 -> Swift 3.1 -> Swift 4.1. Together with 
-</pre>
+
+
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
