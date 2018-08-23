@@ -228,8 +228,8 @@ Others:
 ### What are the specific kind of work you wish to pursue in LINE?
 
 <Your response>
-    I love developing front-end iOS application, communicating with back-end server administrators, finding best approaches to build user-friendly, fast responding user interface.
-    Also interested in developing and enhancing open-source iOS APIs, contribute to the open source community.
+    I love developing front-end iOS application, communicating with back-end programmers, finding best approaches to build user-friendly, fast responding user interface.<br />
+    Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
