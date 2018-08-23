@@ -268,7 +268,8 @@ Others:
 ### What are the names of the technical writings (book and articles) that had the most profound impact on you? (list upto 3, if you have any)
 
 <Your Response>
-    Mike Meyers: Network Security
-    Stinson: Cryptography, Theory and Practice, Chapman & Hall CRC, 3rd edition
+    
+- Mike Meyers: Network Security
+- Stinson: Cryptography, Theory and Practice, Chapman & Hall CRC, 3rd edition
 
 # Thank you for your participation.
