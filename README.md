@@ -3,9 +3,9 @@
 
 # Applicant
 
-- Name:
-- Date:
-- Preferred work location:    
+- Name: Kalybekov Nurlan
+- Date: August 23, 2018
+- Preferred work location: Kyoto office
 ※ Please choose one (Tokyo office/ Fukuoka office/ Kyoto office) 
 ※ All of the positions in Tokyo office are required Japanese skills equivalent to JLPT Level 2 or above.
 ※ Applicant who choose Tokyo Office, please provide your Japanese certificate or any proof of your Japanese skills, non-Japanese speaking candidate please select Fukuoka or Kyoto Office.
@@ -28,15 +28,15 @@ If you wish to add to the list, or your choice of programming is not in the list
 
 ### Language
 
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] C/C++
-- [ ] Java
+- [x] Java
 - [ ] Ruby
 - [ ] Python
-- [ ] PHP
+- [x] PHP
 - [ ] Scala
 - [ ] Clojure
-- [ ] Swift
+- [x] Swift
 
 Others:
 
@@ -55,6 +55,9 @@ Others:
 - [ ] Elm
 
 Others:
+- [x] Bootstrap
+- [x] WordPress
+- [x] Zend Framework
 
 ### Typed JavaScript & JS Compiler
 
@@ -109,14 +112,14 @@ Others:
 - [ ] Spring
 - [ ] Ruby on Rails
 - [ ] Express
-- [ ] Firebase
+- [x] Firebase
 - [ ] GraphQL
 
 Others:
 
 ### Database
 
-- [ ] MySQL
+- [x] MySQL
 - [ ] PostgreSQL
 - [ ] Mongo
 - [ ] Redis
@@ -133,8 +136,8 @@ Others:
 
 ### OS
 
-- [ ] macOS
-- [ ] Windows
+- [x] macOS
+- [x] Windows
 - [ ] Linux (Red Hat family)
 - [ ] Linux (Debian family)
 - [ ] Linux (Etc)
@@ -144,7 +147,7 @@ Others:
 ### Web Server
 
 - [ ] NGINX
-- [ ] Apache
+- [x] Apache
 
 Others:
 
@@ -152,12 +155,15 @@ Others:
 
 - [ ] Vim
 - [ ] Emacs
-- [ ] VS Code
-- [ ] Sublime Text
-- [ ] Atom
+- [x] VS Code
+- [x] Sublime Text
+- [x] Atom
 - [ ] IntelliJ IDEA
 
 Others:
+- [x] PHPStorm
+- [x] xCode
+- [x] Android Studio
 
 ### UML/Diagram
 
@@ -167,12 +173,15 @@ Others:
 - [ ] LucidChart
 
 Others:
+- [x] MS Project
+- [x] BPWin
+- [x] ERwin
 
 ### SCM
 
 - [ ] CVS
 - [ ] Subversion
-- [ ] Git
+- [x] Git
 - [ ] Mercurial
 - [ ] Perforce
 
@@ -205,7 +214,7 @@ Others:
 
 ### Social Coding & Code Review
 
-- [ ] GitHub
+- [x] GitHub
 - [ ] Bitbucket
 - [ ] GitLab
 - [ ] Stash
