@@ -236,7 +236,9 @@ Others:
 
 <Frequently used app>
 
-<In the last 1 year I haved learned ->
+JobSearch iOS application I am using on daily basis.
+
+In the last 1 year I haved learned Firebase analytics, Repro, GA, AppsFlyer, organic/non-organic users campaign, AWS Lambda.
 
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
