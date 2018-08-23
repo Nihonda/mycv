@@ -243,6 +243,7 @@ Others:
 <Your response>
     I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.<br />
     3 top reasons that draws my attention:<br />
+    
 - Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
 - Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
 - Pricing policy: you pay for what you use. Means, expandable
