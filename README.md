@@ -228,8 +228,9 @@ Others:
 ### What are the specific kind of work you wish to pursue in LINE?
 
 <Your response>
-    I love developing front-end iOS application, communicating with back-end programmers, finding best approaches to build user-friendly, fast responding user interface.<br />
-    Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.
+    I love developing front-end iOS application, communicating with back-end programmers, finding best approaches to build user-friendly, fast responding user interface. Including database architecture<br />
+    Due to regular change of Swift language (Swift 2.3, Swift3.1, Swift3.3 and Swift 4.1) it is critical to match changes and apply them to new releases of applications. Sometimes this work can be frustrating, but also very interesting. I love doing this work.
+    Also interested in developing and enhancing open-source iOS APIs, contributing to the open source community.<br />
 
 ### Among the apps you are currently using, which ones are you particularly interested in or using frequently? (web/smartphone apps are both acceptible; make sure to provide one frequently used app and what you have learned about in the last one year.)
 
@@ -240,10 +241,17 @@ Others:
 ### Among the technologies you are recently interersted in, give us the name of one and the reason it draws your attention (list upto three points).
 
 <Your response>
+    I think AWS services can be future of Cloud computing services. Amazon corporation has shown a desent growth in past few years. Many companies move their services and databases to it.<br />
+    3 top reasons that draws my attention:<br />
+- Storage: Amazon operates more than million servers around 20+ time zones. Means, fast.
+- Computing: Amazon has many APIs for developers (Amazon ES2, Lambda, etc). Means, modern
+- Pricing policy: you pay for what you use. Means, expandable
+    I chose these reasons because my current company not long time ago started using AWS services.
 
 ### Among the projects you have worked on, which one are you  most proud of? What were your tasks in the project, and how did you use your knowledge/skills to come up with the solution?
 
 <Your response>
+    I take very seriously my current iOS projects. The reasons are obvious
 
 ### Public Repository URL (if you have GitHub and Bitbucket accounts)
 
