@@ -32,6 +32,7 @@ If you wish to add to the list, or your choice of programming is not in the list
 - [x] JavaScript
 - [ ] C/C++
 - [x] Java
+- [x] Kotlin
 - [ ] Ruby
 - [ ] Python
 - [x] PHP
